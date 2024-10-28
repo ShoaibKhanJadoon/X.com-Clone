@@ -1133,6 +1133,10 @@ video {
     height: 4rem;
   }
 
+  .max-500\:h-9 {
+    height: 2.25rem;
+  }
+
   .max-500\:min-h-16 {
     min-height: 4rem;
   }
