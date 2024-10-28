@@ -1205,6 +1205,10 @@ video {
   .max-500\:pt-14 {
     padding-top: 3.5rem;
   }
+
+  .max-500\:pt-6 {
+    padding-top: 1.5rem;
+  }
 }
 
 @media (min-width: 500px) {
